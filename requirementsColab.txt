@@ -1,0 +1,7 @@
+folium==0.20.0
+mecoda-minka==1.10.0
+open_clip_torch==4.2.2
+segment-anything-py==1.0.1
+timm==1.0.31
+ftfy==6.3.1
+tiktoken==0.14.0
