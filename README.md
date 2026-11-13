@@ -1,0 +1,1 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PerrineGilloteaux/ANERIS_BrugesWORKSHOP.git/HEAD?urlpath=%2Fdoc%2Ftree%2FAEIS_MAC_for_MINKA_family.ipynb)
