@@ -2,3 +2,4 @@
 (not enough memory)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PerrineGilloteaux/ANERIS_BrugesWORKSHOP/blob/main/AEIS_MAC_for_MINKA_family.ipynb)
+(Execution> modify excution type to use GPU otherwise about 1min30 poer image (against about 10 sec)
